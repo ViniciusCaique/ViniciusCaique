@@ -3,7 +3,7 @@
   <img height="15%" width="15%" align="right" src="https://cdn.discordapp.com/attachments/835228000345784331/1072262679860879360/cat_gojo_3.jpg" alt="gojo"/>
 </div>
 
-### Yo, I'm Vinicius 👋
+### Yo, I'm Vinicius 🎲
  I'm currently studying programming.
 
 - Exploring some things and having fun.
