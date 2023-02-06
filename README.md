@@ -12,7 +12,7 @@
 
 <div>
   <!– DevIcon, pra pegar as imagens –>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
 </div>
 
 <div>
@@ -23,7 +23,7 @@
 #
 
 <div>
-  <a href="https://www.linkedin.com/in/vinicius-caique-695b361a2/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"/>
+  <a href="https://www.linkedin.com/in/vinicius-caique-695b361a2/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   <a/>
 </div>
