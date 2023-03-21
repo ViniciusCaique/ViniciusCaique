@@ -23,7 +23,7 @@
 #
 
 <div>
-  <a href="https://www.linkedin.com/in/vinicius-caique-695b361a2/"> 
+  <a href="https://www.linkedin.com/in/vinicius-caique/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   <a/>
 </div>
