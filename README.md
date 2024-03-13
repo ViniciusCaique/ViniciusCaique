@@ -11,10 +11,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,docker" />
   </a>
 </p>
 
+---
 <!--<div> -->
 <!--   https://skillicons.dev/ -->
   <!-- <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" /> -->
@@ -24,8 +25,6 @@
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCaique&layout=compact&langs_count=6&theme=tokyonight" /> -->
 <!--   </br> -->
 <!-- </div> -->
-
-#
 
 <!-- <div>
   <a href="https://www.linkedin.com/in/vinicius-caique/"> 
