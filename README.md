@@ -5,17 +5,20 @@
 
 <!-- src="https://cdn.discordapp.com/attachments/835228000345784331/1072262679860879360/cat_gojo_3.jpg" -->
 
-### Yo, I'm Vinicius 🎲
- I'm currently studying programming.
-
-- Exploring some things and having fun.
+### Yo, Stranger 🐲
+ I'm currently exploring some things and having fun.
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
-<div>
-<!--   <!– DevIcon, pra pegar as imagens –> -->
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
-</div>
+<!--<div> -->
+<!--   https://skillicons.dev/ -->
+  <!-- <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" /> -->
+<!-- </div> -->
 
 <!-- <div> -->
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCaique&layout=compact&langs_count=6&theme=tokyonight" /> -->
@@ -24,8 +27,9 @@
 
 #
 
-<div>
+<!-- <div>
   <a href="https://www.linkedin.com/in/vinicius-caique/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   <a/>
-</div>
+</div> -->
+ 
