@@ -9,7 +9,7 @@
  I'm currently exploring some things and having fun.
 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,docker" />
   </a>
