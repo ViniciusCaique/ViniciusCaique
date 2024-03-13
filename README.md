@@ -17,10 +17,10 @@
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
 </div>
 
-<div>
+<!-- <div> -->
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCaique&layout=compact&langs_count=6&theme=tokyonight" /> -->
 <!--   </br> -->
-</div>
+<!-- </div> -->
 
 #
 
