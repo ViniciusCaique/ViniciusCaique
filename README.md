@@ -3,7 +3,8 @@
   <img height="15%" width="15%" align="right" src="https://cdn.discordapp.com/attachments/400841010894209034/1217485184857931826/cat_gojo_3.jpg?ex=6604326f&is=65f1bd6f&hm=b3aa15b00d376ef603d0dc233334ef91326317e2362ec3ccea7a292cb74790c5" alt="gojo"/>
 </div>
 
-<!-- src="https://cdn.discordapp.com/attachments/835228000345784331/1072262679860879360/cat_gojo_3.jpg" -->
+![cat gojo 3 png](https://github.com/ViniciusCaique/ViniciusCaique/assets/61245886/1297ca58-f30d-4763-8f45-dd402d00ddc5)
+
 
 ### Yo, Stranger 🐲
  I'm currently exploring some things and having fun.
