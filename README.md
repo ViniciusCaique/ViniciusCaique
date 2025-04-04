@@ -7,10 +7,9 @@
 ### Yo, Stranger 🐲
  I'm currently exploring some things and having fun.
 
-
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,docker,java,nodejs&theme=dark" height="25%" width="25%" />
   </a>
 </p>
 
