@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,docker,java,nodejs&theme=dark" height="25%"  />
+    <img src="https://skillicons.dev/icons?i=js,ts,docker,java,nodejs&theme=dark" height="30%"  />
   </a>
 </p>
 
