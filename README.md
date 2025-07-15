@@ -1,6 +1,6 @@
 
 <div>
-  <img  height="10%" weight="10%" align="right" src="https://github.com/ViniciusCaique/ViniciusCaique/assets/61245886/1297ca58-f30d-4763-8f45-dd402d00ddc5" alt="cat-gojo"/>
+  <img height="125px" weight="125px" align="right" src="https://github.com/ViniciusCaique/ViniciusCaique/assets/61245886/1297ca58-f30d-4763-8f45-dd402d00ddc5" alt="cat-gojo"/>
 </div>
 
 
@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,docker,java,nodejs&theme=dark" height="30%" weight="30%"  />
+    <img src="https://skillicons.dev/icons?i=js,ts,docker,java,nodejs&theme=dark" height="75px" weight="75px"  />
   </a>
 </p>
 
